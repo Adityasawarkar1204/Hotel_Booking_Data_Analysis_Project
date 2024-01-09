@@ -1,2 +1,2 @@
-# adityasawarkar
-This is my first Git Repository
+# SQL Project
+This is my first SQL Mini project ICIC BANK MANAGEMENT SYSTEM
